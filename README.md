@@ -1,6 +1,7 @@
 # PEX 
-Pex is a food ordering & devlivery web/moblie based Application
-Built with React library
+Pex is a food ordering & devlivery web/moblie based Application.
+
+Built with React library.
 
 ## Getting Started with Create React App
 
