@@ -1,5 +1,5 @@
-# PEX is a food ordering & devlivery web/moblie based Application
-
+# PEX 
+Pex is a food ordering & devlivery web/moblie based Application
 
 ## Getting Started with Create React App
 
